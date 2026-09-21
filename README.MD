@@ -33,6 +33,14 @@ style="padding-right:10px;"
 src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" 
 />
 ㅤ
+   <img
+align=left
+alt=Eletricidade
+title=Eletricidade
+width=35px
+style="padding-right: 10px;"
+src="https://cdn-icons-png.flaticon.com/512/2779/2779482.png" />
+
 ##
 
    <img
